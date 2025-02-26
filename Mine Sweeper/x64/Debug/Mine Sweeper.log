@@ -1,0 +1,3 @@
+﻿  game.c
+D:\code2022\study\Mine Sweeper\Mine Sweeper\game.c(90,18): warning C4013: “count_num”未定义；假设外部返回 int
+  Mine Sweeper.vcxproj -> D:\code2022\study\Mine Sweeper\x64\Debug\Mine Sweeper.exe
