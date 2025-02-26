@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code2022\\study\\Mine Sweeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE58C33-A48D-459A-9E67-C5D6F4191E84}|Mine Sweeper\\Mine Sweeper.vcxproj|D:\\code2022\\study\\Mine Sweeper\\Mine Sweeper\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FE58C33-A48D-459A-9E67-C5D6F4191E84}|Mine Sweeper\\Mine Sweeper.vcxproj|solutionrelative:Mine Sweeper\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE58C33-A48D-459A-9E67-C5D6F4191E84}|Mine Sweeper\\Mine Sweeper.vcxproj|D:\\code2022\\study\\Mine Sweeper\\Mine Sweeper\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FE58C33-A48D-459A-9E67-C5D6F4191E84}|Mine Sweeper\\Mine Sweeper.vcxproj|solutionrelative:Mine Sweeper\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE58C33-A48D-459A-9E67-C5D6F4191E84}|Mine Sweeper\\Mine Sweeper.vcxproj|D:\\code2022\\study\\Mine Sweeper\\Mine Sweeper\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FE58C33-A48D-459A-9E67-C5D6F4191E84}|Mine Sweeper\\Mine Sweeper.vcxproj|solutionrelative:Mine Sweeper\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.c",
+              "DocumentMoniker": "D:\\code2022\\study\\Mine Sweeper\\Mine Sweeper\\game.c",
+              "RelativeDocumentMoniker": "Mine Sweeper\\game.c",
+              "ToolTip": "D:\\code2022\\study\\Mine Sweeper\\Mine Sweeper\\game.c",
+              "RelativeToolTip": "Mine Sweeper\\game.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-21T04:35:24.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\code2022\\study\\Mine Sweeper\\Mine Sweeper\\game.h",
+              "RelativeDocumentMoniker": "Mine Sweeper\\game.h",
+              "ToolTip": "D:\\code2022\\study\\Mine Sweeper\\Mine Sweeper\\game.h",
+              "RelativeToolTip": "Mine Sweeper\\game.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-21T04:35:03.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\code2022\\study\\Mine Sweeper\\Mine Sweeper\\test.c",
+              "RelativeDocumentMoniker": "Mine Sweeper\\test.c",
+              "ToolTip": "D:\\code2022\\study\\Mine Sweeper\\Mine Sweeper\\test.c",
+              "RelativeToolTip": "Mine Sweeper\\test.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-21T04:12:39.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
